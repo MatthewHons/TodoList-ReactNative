@@ -1,4 +1,4 @@
-## My first with react native
+## My first app with react native
 
 ### It's a Todo list using expo, android studio and react native
 
